@@ -239,7 +239,7 @@ Antes del 5 de Mayo, el día  28 de abril de 1862, tuvo lugar un enfrentamiento 
 
               
      <div data-role="main" class="ui-content" align="center">
-       <div style="width:50%;">
+       <div style="width:35%;">
 <ul data-role="controlgroup" data-type="vertical" data-theme="a">
           <li class="ui-first-child ui-last-child">
            <a href="https://culturacolectiva.com/historia/" data-role="button">
@@ -286,7 +286,7 @@ El 5 de marzo, cuando aún se realizaban las negociaciones, llegó a Veracruz un
                <br>
                
 <div data-role="main" class="ui-content" align="center">
-       <div style="width:50%;">
+       <div style="width:35%;">
 <ul data-role="controlgroup" data-type="vertical" data-theme="a">
           <li class="ui-first-child ui-last-child">
            <a href="https://www.paxala.com/la-batalla-de-puebla/" data-role="button">
@@ -337,6 +337,8 @@ Puebla fue un punto clave para la historia del país, por lo que este museo inte
 <p>
 El interactivo narra las acciones militares y contiene las biografías de héroes nacionales como Ignacio Zaragoza, a través de pantallas táctiles, proyecciones en 3-D y contenidos interactivos descargables en dispositivos.
 </p>
+       <center><img src="imagenes/museo_5_mayo_interac.jpg" width="50%" height="50%"></center>
+
 <p>
 Este espacio está dotado de tres salas que detallan la riqueza histórica de Puebla, que te transportan a los lugares donde la batalla se llevó a cabo.
 </p>
@@ -344,7 +346,7 @@ Este espacio está dotado de tres salas que detallan la riqueza histórica de Pu
               
                             
 <div data-role="main" class="ui-content" align="center">
-       <div style="width:50%;">
+       <div style="width:36%;">
 <ul data-role="controlgroup" data-type="vertical" data-theme="a">
           <li class="ui-first-child ui-last-child">
            <a href="http://www.museospuebla.puebla.gob.mx/index.php" data-role="button">
@@ -397,7 +399,7 @@ Durante la Segunda Intervención Francesa en México, Negrete hizo a un lado su 
               <br>
               
  <div data-role="main" class="ui-content" align="center">
-       <div style="width:50%;">
+       <div style="width:35%;">
 <ul data-role="controlgroup" data-type="vertical" data-theme="a">
           <li class="ui-first-child ui-last-child">
            <a href="http://www.saberia.com/quienes-lucharon-en-la-batalla-del-5-de-mayo/" data-role="button">
